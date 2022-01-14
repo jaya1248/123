@@ -1,0 +1,12 @@
+
+let string1 = "Hello"
+let string2 = " There!"
+let string1 = "jaya"
+let string2 = " solanki"
+var mystring = string1+string2
+print(mystring)
+var instruction = "look over"
+instruction += string2
+var instruction = "My name is "
+instruction += string1
+print(instruction)

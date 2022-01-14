@@ -1,0 +1,6 @@
+func sum(firstNumber: Int, secondNumber: Int, thirdNumber: Int, fourthNumber:Int) 
+{ 
+let result = firstNumber + secondNumber + thirdNumber + fourthNumber 
+print("The sum is \(result).")
+}
+sum(firstNumber: 11, secondNumber: 21,thirdNumber:44,fourthNumber:45)

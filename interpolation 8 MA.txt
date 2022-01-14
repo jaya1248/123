@@ -1,0 +1,4 @@
+
+let score1 = 50
+let score2 = 60
+print("Team 2 scored \(score2) which is \(score2-score1) runs more than Team 1's score")
